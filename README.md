@@ -15,7 +15,7 @@ This C program performs various image processing operations on BMP images, inclu
 
 ## Description
 
-This program allows you to apply different image processing filters to BMP images. It was developed as part of [provide project context if any] and serves as a tool for performing basic image manipulation tasks.
+This program allows you to apply different image processing filters to BMP images. It was developed as part of my final project for cs50 and serves as a tool for performing basic image manipulation tasks.
 
 ## Features
 
